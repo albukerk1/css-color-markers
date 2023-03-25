@@ -1,2 +1,2 @@
 # css-color-markers
-Learning CSS by building color markers (weird, but yes).
+Learning CSS color by building color markers (weird, but yes).
